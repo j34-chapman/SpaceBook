@@ -17,7 +17,7 @@ This README offers insights into the project's purpose, technologies, and provid
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- 
+  
 ## Scenario
 
 WordPublisher is a fictional monolithic blogging platform with the goal of modernizing how users create and manage personal and professional blog sites. Struggling with performance issues and user migration due to its outdated structure, the project's primary objective is to revamp WordPublisher's platform using modern frameworks and technologies. The result is an efficient prototype that addresses these challenges.
