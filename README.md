@@ -34,12 +34,16 @@ For a comprehensive understanding of the API specification and database structur
 
 ## How to use 
 
-To run the back-end server and perform tests, follow these steps:
+Follow these steps to run the application and perform tests:
 
-1. O
-2. R
-3. O
-4. E
+1. Make sure your machine has Node.js and Git installed.
+2. Navigate to the directory where you want to download the project.
+3. Run the command: `git clone https://github.com/j34-chapman/SpaceBook`.
+4. After downloading, navigate to both the 'BackEnd' and 'FrontEnd' directories and run `npm install` to install all required dependencies.
+5. Once the dependencies are installed, start the server using `npm run dev` in the 'BackEnd' directory and do the same for the front end.
+6. To run backend tests in a separate terminal window, use the command: `npm test`.
+
+Now you're ready to explore the application and perform tests.
 
 ## Contributing
 
