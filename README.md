@@ -30,7 +30,7 @@ The project is centered around the development of a full-stack web application, 
 
 2. **Part 2: Front-End Implementation**: The second phase focused on creating an engaging user interface for the blog engine. The VueJS framework was leveraged to seamlessly interact with the back-end API, providing users with a smooth and engaging experience.
 
-For a comprehensive understanding of the API specification and database structure, refer to the [API Specification](https://app.swaggerhub.com/apis/ashwilliams/FullStack-WebDev-Assignment/1.0.0) and the [Starter Code](https://github.com/ash-williams/fsd_blog_engine_server).
+For a comprehensive understanding of the API specification and database structure, refer to the [API Specification](https://app.swaggerhub.com/apis/ashwilliams/FullStack-WebDev-Assignment/1.0.0) 
 
 ## How to use 
 
