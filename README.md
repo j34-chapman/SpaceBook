@@ -1,4 +1,4 @@
-# SpaceBook Full-Stack Blog Engine
+# SpaceBook 
 
 Welcome to the SpaceBook Full-Stack Blog Engine repository, a part of my Full Stack Web Development coursework at Manchester Metropolitan University. This project showcases my practical experience in real-world problem-solving, software development, and the creation of a portfolio-worthy application.
 
