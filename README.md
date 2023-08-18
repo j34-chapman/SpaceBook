@@ -1,2 +1,56 @@
-# SpaceBook (Full Stack)
-My website built for University 
+# WordPublisher Full-Stack Blog Engine
+
+Welcome to the SpaceBook Full-Stack Blog Engine repository, a part of my "Full Stack Web Development" coursework at Manchester Metropolitan University. This project showcases my practical experience in real-world problem-solving, software development, and the creation of a portfolio-worthy application.
+
+By leveraging modern frameworks and technologies, I've redeveloped the platform into a scalable prototype. The repository includes both back-end and front-end components, utilizing NodeJS, ExpressJS, VueJS, and RESTful APIs.
+
+This README offers insights into the project's purpose, technologies, and provides setup instructions. Whether you're exploring the codebase, considering contributions, or intrigued by the technical aspects, this document is your comprehensive resource. Watch the video below for a demonstration of the application's functionality, a part of my final grading process.
+
+**Watch the Video Demonstration**: [![Watch the video demonstration](link_to_your_video_thumbnail_image)](link_to_your_video)
+
+## Table of Contents
+
+- [Scenario](#scenario)
+- [Coursework Overview](#coursework-overview)
+   - [Part 1: Implement the Back-End](#part-1-implement-the-back-end)
+   - [Part 2: Implement the Front-End](#part-2-implement-the-front-end)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- 
+## Scenario
+
+WordPublisher is a fictional monolithic blogging platform with the goal of modernizing how users create and manage personal and professional blog sites. Struggling with performance issues and user migration due to its outdated structure, the project's primary objective is to revamp WordPublisher's platform using modern frameworks and technologies. The result is an efficient prototype that addresses these challenges.
+
+## Coursework Overview
+
+The project is centered around the development of a full-stack web application, with a focus on the following key components:
+
+1. **Part 1: Back-End Development**: This phase involves the implementation of the back-end application. Utilizing technologies such as NodeJS, ExpressJS, and RESTful APIs, the back-end has been designed to accommodate the specified API and database structure.
+
+2. **Part 2: Front-End Implementation**: The second phase focused on creating an engaging user interface for the blog engine. The VueJS framework was leveraged to seamlessly interact with the back-end API, providing users with a smooth and engaging experience.
+
+For a comprehensive understanding of the API specification and database structure, refer to the [API Specification](https://app.swaggerhub.com/apis/ashwilliams/FullStack-WebDev-Assignment/1.0.0) and the [Starter Code](https://github.com/ash-williams/fsd_blog_engine_server).
+
+## How to use 
+
+To run the back-end server and perform tests, follow these steps:
+
+1. O
+2. R
+3. O
+4. E
+
+## Contributing
+
+Contributions to this project are warmly welcomed. If you encounter any issues or have suggestions for improvements, please consider submitting a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+By undertaking this project, I have showcased my ability to address real-world challenges, develop applications using modern web technologies, and contribute effectively to my professional portfolio. Thank you for exploring this repository. If you have any inquiries or feedback, please feel free to get in touch.
+
+
