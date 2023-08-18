@@ -1,6 +1,6 @@
-# WordPublisher Full-Stack Blog Engine
+# SpaceBook Full-Stack Blog Engine
 
-Welcome to the SpaceBook Full-Stack Blog Engine repository, a part of my "Full Stack Web Development" coursework at Manchester Metropolitan University. This project showcases my practical experience in real-world problem-solving, software development, and the creation of a portfolio-worthy application.
+Welcome to the SpaceBook Full-Stack Blog Engine repository, a part of my Full Stack Web Development coursework at Manchester Metropolitan University. This project showcases my practical experience in real-world problem-solving, software development, and the creation of a portfolio-worthy application.
 
 By leveraging modern frameworks and technologies, I've redeveloped the platform into a scalable prototype. The repository includes both back-end and front-end components, utilizing NodeJS, ExpressJS, VueJS, and RESTful APIs.
 
