@@ -6,7 +6,7 @@ By leveraging modern frameworks and technologies, I've redeveloped the platform 
 
 This README offers insights into the project's purpose, technologies, and provides setup instructions. Whether you're exploring the codebase, considering contributions, or intrigued by the technical aspects, this document is your comprehensive resource. Watch the video below for a demonstration of the application's functionality, a part of my final grading process.
 
-**Watch the Video Demonstration**: [![Watch the video demonstration](link_to_your_video_thumbnail_image)](link_to_your_video)
+**Watch the Video Demonstration**: [![Watch the video demonstration](link_to_your_video_thumbnail_image)](https://youtu.be/8Iyw6jTrj68)
 
 ## Table of Contents
 
