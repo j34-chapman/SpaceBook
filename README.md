@@ -1,3 +1,6 @@
+
+<img width="1046" height="400" alt="Screenshot 2023-08-22 at 14 03 11" src="https://github.com/j34-chapman/SpaceBook/assets/93520494/1b842aa0-0cbb-47ef-836f-a812b86cbc76">
+
 # SpaceBook 
 
 Welcome to the SpaceBook Full-Stack Blog Engine repository, a part of my Full Stack Web Development coursework at Manchester Metropolitan University. This project showcases my practical experience in real-world problem-solving, software development, and the creation of a portfolio-worthy application.
@@ -6,7 +9,7 @@ By leveraging modern frameworks and technologies, I've redeveloped the platform 
 
 This README offers insights into the project's purpose, technologies, and provides setup instructions. Whether you're exploring the codebase, considering contributions, or intrigued by the technical aspects, this document is your comprehensive resource. Watch the video below for a demonstration of the application's functionality, a part of my final grading process.
 
-**Watch the Video Demonstration**:[Watch the Video](https://youtu.be/8Iyw6jTrj68)
+**Watch the Video Demonstration**:  [Watch the Video](https://youtu.be/8Iyw6jTrj68)
 
 
 
